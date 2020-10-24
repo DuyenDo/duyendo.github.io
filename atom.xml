@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Duyen Do&#39;s Blog</title>
+  <icon>https://duyendo.github.io/icon.png</icon>
+  <subtitle>Share to be shared</subtitle>
+  <link href="https://duyendo.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://duyendo.github.io/"/>
+  <updated>2020-10-24T20:30:11.758Z</updated>
+  <id>https://duyendo.github.io/</id>
+  
+  <author>
+    <name>Duyen Do</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://duyendo.github.io/2020/10/24/hello-world/"/>
+    <id>https://duyendo.github.io/2020/10/24/hello-world/</id>
+    <published>2020-10-24T20:30:11.758Z</published>
+    <updated>2020-10-24T20:30:11.758Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
