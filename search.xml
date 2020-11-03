@@ -3,12 +3,16 @@
   <entry>
     <title>Hypothesis Testing and p-values</title>
     <url>/2020/10/31/Hypothesis-Testing-and-p-values/</url>
-    <content><![CDATA[<p>This note uses ``All of Stastistics: A Concise Course in Stastistical Inference” written by Larry Wasserman as references.</p>
-<h4 id="Hypothesis-Testing"><a href="#Hypothesis-Testing" class="headerlink" title="Hypothesis Testing"></a>Hypothesis Testing</h4><p>We use hypothesis testing to examine an assumption. </p>
-<p>``Hypothesis Testing is like a legal trial. We assume someone is innocient unless the evidence strongly suggests that he is guilty. Similarly, we retain H0 unless there is strong evidence to reject H0.</p>
+    <content><![CDATA[<p>This note uses <code>All of Stastistics: A Concise Course in Stastistical Inference</code> written by Larry Wasserman as references.</p>
+<h1 id="Hypothesis-Testing"><a href="#Hypothesis-Testing" class="headerlink" title="Hypothesis Testing"></a>Hypothesis Testing</h1><p>We use hypothesis testing to examine an assumption. </p>
+<blockquote>
+<p>Hypothesis Testing is like a legal trial. We assume someone is innocient unless the evidence strongly suggests that he is guilty. Similarly, we retain H0 unless there is strong evidence to reject H0.</p>
+</blockquote>
 ]]></content>
       <tags>
-        <tag>hypothesis testing, p-values, stastistics</tag>
+        <tag>hypothesis testing</tag>
+        <tag>p-values</tag>
+        <tag>stastistics</tag>
       </tags>
   </entry>
 </search>
