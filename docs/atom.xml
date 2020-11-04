@@ -6,7 +6,7 @@
   <link href="https://duyendo.github.io/atom.xml" rel="self"/>
   
   <link href="https://duyendo.github.io/"/>
-  <updated>2020-10-23T15:38:44.268Z</updated>
+  <updated>2020-11-04T04:20:32.134Z</updated>
   <id>https://duyendo.github.io/</id>
   
   <author>
@@ -17,23 +17,29 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://duyendo.github.io/2020/10/23/hello-world/"/>
-    <id>https://duyendo.github.io/2020/10/23/hello-world/</id>
-    <published>2020-10-23T15:38:44.268Z</published>
-    <updated>2020-10-23T15:38:44.268Z</updated>
+    <title>Hypothesis Testing and p-values</title>
+    <link href="https://duyendo.github.io/2020/10/31/Hypothesis-Testing-and-p-values/"/>
+    <id>https://duyendo.github.io/2020/10/31/Hypothesis-Testing-and-p-values/</id>
+    <published>2020-10-31T07:53:27.000Z</published>
+    <updated>2020-11-04T04:20:32.134Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;p&gt;This note uses &lt;code&gt;All of Statistics: A Concise Course in Statistical Inference&lt;/code&gt; written by Larry Wasserman as</summary>
         
       
     
     
     
+    
+    <category term="hypothesis testing" scheme="https://duyendo.github.io/tags/hypothesis-testing/"/>
+    
+    <category term="p-values" scheme="https://duyendo.github.io/tags/p-values/"/>
+    
+    <category term="statistics" scheme="https://duyendo.github.io/tags/statistics/"/>
     
   </entry>
   
