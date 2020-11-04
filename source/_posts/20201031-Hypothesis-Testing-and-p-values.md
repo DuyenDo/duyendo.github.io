@@ -4,10 +4,11 @@ date: 2020-10-31 08:53:27
 tags: 
   - hypothesis testing
   - p-values
-  - stastistics
+  - statistics
+thumbnail: https://i.imgur.com/gyITOwn.png
 ---
 
-This note uses `All of Stastistics: A Concise Course in Stastistical Inference` written by Larry Wasserman as references.
+This note uses `All of Statistics: A Concise Course in Statistical Inference` written by Larry Wasserman as references.
 
 # Hypothesis Testing
 

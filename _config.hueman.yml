@@ -8,20 +8,20 @@ menu:
 # Customize
 customize:
   logo:
-    width: 165
-    height: 60
-    url: images/logo-header.png
+    width: 120
+    height: 120
+    url: https://huntertran.com/images/theme/avatar.png
   theme_color: "#006bde"
   highlight: androidstudio
   sidebar: left # sidebar position, options: left, right
   thumbnail: true # enable posts thumbnail, options: true, false
-  favicon: # path to favicon
+  favicon: /image/theme/favicon.ico # path to favicon
   social_links: # for more icons, please see http://fontawesome.io/icons/#brand
-    twitter: /
-    facebook: /
-    stack-overflow: /
+    # twitter: /
+    # facebook: /
+    # stack-overflow: /
     github: https://github.com/DuyenDo
-    weibo: /
+    # weibo: /
     rss: /
 
 # Widgets
@@ -43,10 +43,10 @@ search:
 
 # Comment
 comment:
-  disqus: hexo-theme-hueman # enter disqus shortname here
-  duoshuo: # enter duoshuo shortname here
-  youyan: # enter youyan uid here
-  facebook: # enter true to enable
+  # disqus: hunter_tran # enter disqus shortname here
+  # duoshuo: # enter duoshuo shortname here
+  # youyan: # enter youyan uid here
+  facebook: true # enter true to enable
   isso: # options for isso. All fields below are OPTIONAL (except for site). See https://posativ.org/isso/docs/configuration/client/ for more information.
     on: # enter true to enable isso
     site: # enter the domain name of your own comment isso server, eg. comments.example.com
@@ -119,7 +119,7 @@ miscellaneous:
     fb_app_id:
     fb_admins:
     twitter_id:
-  links:
-    Hexo: http://hexo.io
+  # links:
+    # Hexo: http://hexo.io
 
-poweredby: true
+poweredby: false
