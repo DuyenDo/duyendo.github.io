@@ -6,7 +6,7 @@
   <link href="https://duyendo.github.io/atom.xml" rel="self"/>
   
   <link href="https://duyendo.github.io/"/>
-  <updated>2020-11-03T23:12:16.182Z</updated>
+  <updated>2020-11-04T04:23:12.556Z</updated>
   <id>https://duyendo.github.io/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="https://duyendo.github.io/2020/10/31/Hypothesis-Testing-and-p-values/"/>
     <id>https://duyendo.github.io/2020/10/31/Hypothesis-Testing-and-p-values/</id>
     <published>2020-10-31T07:53:27.000Z</published>
-    <updated>2020-11-03T23:12:16.182Z</updated>
+    <updated>2020-11-04T04:23:12.556Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;This note uses &lt;code&gt;All of Stastistics: A Concise Course in Stastistical Inference&lt;/code&gt; written by Larry Wasserman as</summary>
+    <summary type="html">&lt;p&gt;This note uses &lt;code&gt;All of Statistics: A Concise Course in Statistical Inference&lt;/code&gt; written by Larry Wasserman as</summary>
         
       
     
@@ -39,7 +39,7 @@
     
     <category term="p-values" scheme="https://duyendo.github.io/tags/p-values/"/>
     
-    <category term="stastistics" scheme="https://duyendo.github.io/tags/stastistics/"/>
+    <category term="statistics" scheme="https://duyendo.github.io/tags/statistics/"/>
     
   </entry>
   
